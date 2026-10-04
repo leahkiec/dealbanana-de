@@ -1,3 +1,10 @@
 /index.php / 301
-/germany-de/* /slots-palace-de/:splat 301
-/de-DE/* /slots-palace-de/:splat 301
+/slots-palace-bewertung-de/* /slots-palace-de-de/:splat 301
+/slots-palace-germany-de/* /slots-palace-de-de/:splat 301
+/slots-palace-erfahrungen-de/* /slots-palace-de-de/:splat 301
+/slots-palace-casino-review-de/* /slots-palace-de-de/:splat 301
+/palace-slots-de/* /slots-palace-de-de/:splat 301
+/slots-palace-casino-de/* /slots-palace-de-de/:splat 301
+/slots-palace-de/* /slots-palace-de-de/:splat 301
+/germany-de/* /slots-palace-de-de/:splat 301
+/de-DE/* /slots-palace-de-de/:splat 301
